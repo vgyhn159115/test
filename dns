@@ -1,0 +1,11 @@
+…or create a new repository on the command line
+ echo "# death" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vgyhn159115/death.git
+git push -u origin master
+
+
+
+ok 完成
